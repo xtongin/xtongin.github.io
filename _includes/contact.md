@@ -1,9 +1,7 @@
 <h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> <a href="https://maps.app.goo.gl/sTBLkKCDBaAD81eA9">614 E. Daniel St., Champaign, IL 61820</a>
+<p><strong>Address:</strong> 1520 Taihu Avenue, Suzhou City, Jiangsu Province
 <br />
-<strong>Office Location:</strong> Room 5125 
+<strong>Office Location:</strong> West 504, Nanyong Building 
 <br />
-<strong>Email:</strong> <email>lyy (at) illinois.edu</email>
-<br />
-<strong>Phone:</strong> (857) 209-8688</p>
+<strong>Email:</strong> <email> xintong@nju.edu.cn </email>
