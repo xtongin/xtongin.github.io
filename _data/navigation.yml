@@ -1,14 +1,14 @@
 main:
 
-  - title: "Services"
-    url: /services/
+  - title: "Contact"
+    url: /contact/
     right: true 
 
-  - title: "Talks"
-    url: /talks/
+  - title: "Services"
+    url: /services/
 
-  #- title: "Teaching"
-  #  url: ./teaching.html
+  # - title: "Teaching"
+  #   url: ./teaching.html
 
   - title: "Publications"
     url: /publications/

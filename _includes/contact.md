@@ -1,7 +1,12 @@
-<h2 style="margin: 60px 0px 10px;">Contact</h2>
 
-<p><strong>Address:</strong> 1520 Taihu Avenue, Suzhou City, Jiangsu Province
+<h1 id="contact"></h1> 
+
+<h2 style="margin: 80px 0px 10px;">Contact</h2>
+
+<p>
+<strong>Email:</strong> <email>   xintong@nju.edu.cn </email>
 <br />
-<strong>Office Location:</strong> West 504, Nanyong Building 
+<strong>Office:</strong>   East 324, Nanyong Building 
 <br />
-<strong>Email:</strong> <email> xintong@nju.edu.cn </email>
+<strong>Address:</strong> 1520 Taihu Avenue, Suzhou City, Jiangsu Province
+
