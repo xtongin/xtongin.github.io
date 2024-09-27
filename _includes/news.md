@@ -7,8 +7,8 @@
 
 
 <ul>
-<li><strong>[2024 Oct.]</strong> <strong style="color:#e74d3c; font-weight:600">课题组现有若干（2025年入学）申请考核博士和考研硕士名额，欢迎与我联系。</strong></li>
-<li><strong>[2024 Oct.]</strong> My personal website is online!</li>
+<li><strong>[Oct. 2024]</strong> <strong style="color:#e74d3c; font-weight:600">课题组现有若干（2025年入学）申请考核博士和考研硕士名额，欢迎与我联系。</strong></li>
+<li><strong>[Oct. 2024]</strong> My personal website is online!</li>
   
 <!-- <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 <div id="newsmore" style="display:none"> 
@@ -16,7 +16,7 @@
   <li><strong>[Nov. 2022]</strong> Our paper about <a href="https://pure.mpg.de/rest/items/item_3478882_1/component/file_3478883/content">class-incremental learning</a> is accepted to <a href="https://aaai.org/Conferences/AAAI-23/">AAAI 2023</a>.</li>
   <li><strong>[Oct. 2022]</strong> I am recognized as a top reviewer for <a href="https://neurips.cc/Conferences/2022/ProgramCommittee">NeurIPS 2022</a>.</li>
   <li><strong>[Aug. 2022]</strong> I will serve as an area chair of <a href="https://aistats.org/aistats2023/">AISTATS 2023</a>.</li>
-  <li><strong>[Jun. 2022]</strong> I will serve as a student mentor of <a href="https://sites.google.com/view/cvpr-academy/">the CVPR Academy</a> at <a href="http://cvpr2022.thecvf.com/">CVPR 2022</a>.</li>
+  <li><strong>[Jun. 2022]</strong> I will serve as a student mentor of <a href="https://sites.google.com/view/cvpr-academy/">the CVPR Academy</a> at <a href="htp://cvpr2022.thecvf.com/">CVPR 2022</a>.</li>
   <li><strong>[Jun. 2022]</strong> I will serve as a website chair of <a href="https://bmvc2022.org/people/organisers/">BMVC 2022</a>, along with <a href="https://yashbhalgat.github.io/">Yash Bhalgat</a>.</li>
   <li><strong>[Sep. 2021]</strong> Our paper about <a href="https://openreview.net/pdf?id=BfPzZSype5M">class-incremental learning</a> is accepted to <a href="https://neurips.cc/Conferences/2021">NeurIPS 2021</a>.</li>
   <li><strong>[Mar. 2021]</strong> Our paper about <a href="https://arxiv.org/pdf/2010.05063.pdf">class-incremental learning</a> is accepted to <a href="http://cvpr2021.thecvf.com/">CVPR 2021</a>.</li>
