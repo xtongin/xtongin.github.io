@@ -1,13 +1,20 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
-<strong style="color:#e74d3c; font-weight:600">I am actively looking for self-motivated Ph.D. abd M.Sc. students with interests in control theory and robotics. Please email me for opportunities to get involved in our research. </strong>
+<!-- <font color="#e74d3c">I am actively looking for self-motivated Ph.D. and M.Sc. students with interests in control theory and robotics. If you are interested in exploring research opportunities, please feel free to email me.</font> -->
+
+<strong>I am actively looking for self-motivated Ph.D. and M.Sc. students with interests in control theory and robotics. Please email me for opportunities to get involved in our research.</strong>
+
+<!-- <strong>I am actively looking for self-motivated Ph.D. and M.Sc. students with interests in control theory and robotics. Please email me for opportunities to get involved in our research.</strong> -->
+
+
+
 
 <!-- <strong style="color:#e74d3c; font-weight:600">课题组现有若干（2025年入学）申请考核博士和考研硕士名额，欢迎与我联系。 </strong> -->
 
 
 
 <ul>
-<li><strong>[Oct. 2024]</strong> <strong style="color:#e74d3c; font-weight:600">课题组现有若干（2025年入学）申请考核博士和考研硕士名额，欢迎与我联系。</strong></li>
+<li><strong>[Oct. 2024]</strong> <strong style="color:#e74d3c; font-weight:600">课题组现有若干（2025年入学）申请考核博士和考研硕士名额，欢迎有志于从事自动化控制和机器人方向的研究，专业为自动化、计算机、电子电气、数学、物理、机械、信息等领域的同学加入本课题组。</strong></li>
 <li><strong>[Oct. 2024]</strong> My personal website is online!</li>
   
 <!-- <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
