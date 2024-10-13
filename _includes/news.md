@@ -15,6 +15,7 @@
 
 <ul>
 <li><strong>[Oct. 2024]</strong> <strong style="color:#e74d3c; font-weight:600">课题组现有若干（2025年入学）申请考核博士和考研硕士名额，欢迎有志于从事自动化控制和机器人方向的研究，专业为自动化、计算机、电子电气、数学、物理、机械、信息等领域的同学加入本课题组。</strong></li>
+<li><strong>[Oct. 2024]</strong> Our paper "Global Coordinated Stabilization of Multiple Simple Mechanical Control Systems on a Class of Lie Groups" has been accepted for publication in IEEE Transactions on Automatic Control.</li>
 <li><strong>[Oct. 2024]</strong> My personal website is online!</li>
   
 <!-- <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
