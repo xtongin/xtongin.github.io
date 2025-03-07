@@ -4,7 +4,7 @@
 
 
 <ol style="margin:0 0 5px;">
-  <li><a href="https://ieeexplore.ieee.org/document/10735354"><autocolor><strong>Tong, Xin</strong>, Qingpeng Ding, and Shing Shin Cheng. "Global Coordinated Stabilization of Multiple Simple Mechanical Control Systems on a Class of Lie Groups." IEEE Transactions on Automatic Control (2024). <em>Early access.</em></autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/document/10735354"><autocolor><strong>Tong, Xin</strong>, Qingpeng Ding, and Shing Shin Cheng. "Global Coordinated Stabilization of Multiple Simple Mechanical Control Systems on a Class of Lie Groups." IEEE Transactions on Automatic Control 70, no. 3 (2025): 2043-50</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/document/10645234"><autocolor><strong>Tong, Xin</strong> and Shing Shin Cheng. "Centrally Synergistic Hybrid Feedback for Global Pose Tracking Using Dual Quaternions." IEEE Transactions on Aerospace and Electronic Systems 61, no. 1 (2025): 195-207.</autocolor></a></li>
   <li><a href="https://doi.org/10.1016/j.automatica.2024.111785"><autocolor><strong>Tong, Xin</strong>, Qingpeng Ding, Haiyang Fang, and Shing Shin Cheng. "Quaternion-Based Attitude Stabilization Using Synergistic Hybrid Feedback with Minimal Potential Functions." Automatica 168 (2024): 111785.</autocolor></a></li>
   <li><a href="https://doi.org/10.1109/tac.2023.3281341"><autocolor><strong>Tong, Xin</strong>, and Shing Shin Cheng. "Global Stabilization of Antipodal Points on n-Sphere with Application to Attitude Tracking." IEEE Transactions on Automatic Control 69, no. 2 (2024): 1186-93.</autocolor></a></li>
