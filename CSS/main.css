@@ -7,7 +7,10 @@ body {
 				 "Segoe UI Symbol";
 	padding: 0;
 	margin: 0;
+	overflow-x: hidden; /* 隐藏水平滚动条 */
 }
+
+
 
 
 div#main-container {
@@ -80,9 +83,9 @@ div#layout-menu {
 	padding-top: 0px;
 	padding-bottom: 25px;
 	height: calc(100% - 97px);
-	min-width: 280px;
+	min-width: 240px;
 	position: fixed;
-	overflow: scroll;
+	overflow: hidden;
 	background: #f6f8fa;
 	border-right: 0.8px solid #e1e4e8;
 }
@@ -94,9 +97,9 @@ div#layout-menu {
 
 
 div#layout-content-container {
-	width: calc(100vw - 280.8px);
+	width: calc(100vw - 240.8px);
 	min-height: calc(100vh - 70px);
-	margin-left: 280.8px;
+	margin-left: 240.8px;
 	background: none;
 	text-align: left;
 	display: inline-block;
@@ -159,13 +162,13 @@ div.menu-category {
 	padding-bottom: 0.1em;
 	padding-left: 25px;
 	padding-right: 25px;
-	font-size: 18px;
+	font-size: 20px;
 	line-height: 2;
 	border-top: 0.8px solid #e1e4e8;
 }
 
 div.menu-item {
-	font-size: 16px;
+	font-size: 18px;
 	padding-left: 25px;
 	padding-right: 25px;
 }
